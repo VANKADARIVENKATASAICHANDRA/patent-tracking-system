@@ -170,5 +170,5 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## 📬 Contact  
 
 For questions or feedback:  
-- **Email**: your-email@example.com  
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
+- **Email**: 21jr1a12i9@gmail.com  
+- **LinkedIn**: https://www.linkedin.com/in/saichandravankadari/ 
